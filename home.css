@@ -1,0 +1,438 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff;
+}
+
+.main {
+    /* background-color: chartreuse; */
+    /* width: 1442px; */
+
+}
+
+.main-1 {
+    /* width: 1000px; */
+    background-color: #ff7300;
+}
+
+.nav-bar {
+    height: 100px;
+    /* background-color: violet; */
+}
+
+.menu {
+    /* background-color: palegreen; */
+}
+
+.box-1 a {
+    text-decoration: none;
+    color: gray;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.box-1 a:hover {
+    color: orange;
+    border-bottom: 3px solid rgb(189, 189, 189);
+    padding-bottom: 8px;
+    transition: all;
+}
+
+.box-2 a {
+    text-decoration: none;
+    color: gray;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.box-2 a:hover {
+    color: orange;
+    border-bottom: 3px solid rgb(189, 189, 189);
+    padding-bottom: 8px;
+    transition: all;
+}
+
+.box-3 a {
+    text-decoration: none;
+    color: gray;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.box-3 a:hover {
+    color: orange;
+    border-bottom: 3px solid rgb(189, 189, 189);
+    padding-bottom: 8px;
+    transition: all;
+}
+
+.box-4 a {
+    text-decoration: none;
+    color: gray;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.box-4 a:hover {
+    color: orange;
+    border-bottom: 3px solid rgb(189, 189, 189);
+    padding-bottom: 8px;
+    transition: all;
+}
+
+.box-5 a {
+    text-decoration: none;
+    color: gray;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.box-5 a:hover {
+    color: orange;
+    border-bottom: 3px solid rgb(189, 189, 189);
+    padding-bottom: 8px;
+    transition: all;
+}
+.logo-1 {
+    height: 100px;
+    /* background-color: cadetblue; */
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+.logo-1 p{
+    color: black;
+}
+.logo-1 p:hover{
+
+  color:orange;
+}
+
+.logo-11 {
+    /* height: 100px; */
+    /* width: 65px; */
+    /* background-color: chartreuse; */
+    font-size: 25px;
+    font-weight: bold;
+    /* display: flex; */
+    align-items: center;
+    color: orange;
+}
+
+.logo-12 {
+    /* height: 100px; */
+    /* background-color: red; */
+}
+
+.logo-12:hover {
+    color: orange;
+}
+
+.icon {
+    /* background-color: rgb(255, 0, 0); */
+}
+
+.logo-2 {
+    /* background-color: seagreen; */
+}
+
+.logo-21 {
+    /* background-color: cadetblue; */
+    /* width: 20px; */
+}
+
+.logo-21:hover {
+    color: orange;
+    /* border-bottom: 3px solid ghostwhite; */
+    transition: all;
+}
+
+.logo-22 {
+    /* background-color: rgb(250, 8, 8); */
+}
+
+.logo-22:hover {
+    color: orange;
+    /* border-bottom: 3px solid ghostwhite; */
+    transition: all;
+}
+
+.sliders {
+    background-color: darkviolet;
+    background-image: url(images/medium-shot-business-women-high-five.jpeg);
+    height: 900px;
+    width:100%;
+}
+.texts{
+    /* background-color: orangered; */
+    height:800px;
+    width: 800px;
+}
+.text-1{
+    /* background-color: palegoldenrod; */
+    font-size:80px;
+    font-weight: bold;
+    color: #fff;
+}
+.text-2{
+    /* background-color:palegreen; */
+    font-size: 23px;
+    color: #fff;
+}
+.text-3{
+    /* background-color:paleturquoise; */
+    font-size:25px;
+    font-weight: bold;
+}
+.text-3 button{
+    height: 50px;
+    width:300px;
+    border-radius:25px;
+    background-color: black;
+    color: #fff;
+    outline: none;
+    border: none;
+}
+.fashion{
+    background-color: cornflowerblue;
+    height:250px;    
+}
+.get-start {
+    background-color: palegoldenrod;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: end;
+}
+.get-start-1 {
+    color: rgb(240, 97, 2);
+    font-size:48px;
+    font-weight: bold;
+    background-color: rgb(235, 134, 11);
+}
+.introduction{
+    /* background-color: chartreuse; */
+    height:auto;
+}
+.ibox-1{
+    /* background-color: crimson; */
+}
+.box-11{
+    /* background-color: darkseagreen; */
+}
+.box-11 a{
+    text-decoration: none;
+    color:rgb(104, 104, 104);
+    font-size:20px;
+    font-weight: bold;
+}
+.box-11 a:hover{
+    color: #ff7300;
+    /* background-color: cadetblue; */
+}
+.ibox-2{
+    /* background-color:cadetblue; */
+}
+.ibox-3{
+    /* background-color:coral; */
+}
+.good{
+    /* background-color: darkgreen; */
+    /* line-height:50px; */
+    font-size: 30px;
+    font-weight: bold;
+}
+.ideas{
+    /* background-color: rgb(255, 38, 0); */
+    /* line-height:40px; */
+    font-size: 30px;
+    font-weight: bold;
+}
+.little{
+    /* background-color: darkblue; */
+    line-height:44px;
+    font-size:20px;
+    color: #4a4a4a;
+}
+.about{
+    /* background-color: darkmagenta; */
+    line-height:20px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+.red{
+    background-color: darkslateblue;
+}
+.retail{
+    background-color: rgb(220, 240, 248);
+}
+.retaili{
+    background-color: darkcyan;
+    height: auto;
+}
+.retaili img{
+    background-color:red;
+    height: auto;
+}
+.retailtext{
+    /* background-color: darkgoldenrod; */
+}
+.contents{
+    /* background-color: indianred; */
+}
+.shope{
+    /* background-color:red; */
+    color: #ff7300;
+    font-size:40px;
+}
+.Credits{
+    /* background-color: deepskyblue; */
+    color: rgb(78, 78, 78);
+    font-size:25px;
+}
+.product{
+    /* background-color: darkgray; */
+    font-weight:10px;
+    color: #505050;
+}
+.fetured{
+    /* background-color:purple; */
+}
+.fetured {
+    /* background-color:purple; */
+}
+
+.fp {
+    /* background-color: chartreuse; */
+    /* height: 60px; */
+    font-size: 40px;
+    text-align: center;
+    font-weight: 1000;
+}
+
+.fpcards {
+    /* background-color: brown; */
+}
+
+.fpcard-1 {
+    /* background-color: rgb(255, 85, 0); */
+}
+
+.tree {
+    /* background-color: darkorchid; */
+}
+
+.img-1 {
+    position: relative;
+    /* background-color: darkorange; */
+    width:100%;
+    height:100%;
+}
+.img-1 img{
+    width:100%;
+    height:100%;
+}
+.content {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 10px; 
+    background-color: #ffffff;
+}
+#heart{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 10px; 
+    color: #fff;
+    /* background-color: #ffffff; */
+}
+#heart:hover{
+    color:red;
+}
+.img-text1 {
+    /* background-color: cyan; */
+}
+
+.pot {
+    /* background-color: red; */
+    font-size: 20px;
+    /* font-weight: bold; */
+}
+
+.pot span {
+    /* background-color: #ff7300; */
+    color: #505050;
+    font-size: 18px;
+}
+
+.house {
+    /* background-color: darkgreen; */
+    color: #4a4a4a;
+}
+.view{
+    /* background-color: #ff7300; */
+}
+.products{
+    text-align: center;
+    font-size:20px;
+    border-bottom: solid 2px rgb(92, 92, 92);
+}
+.red-2 {
+    background-color: rgb(10, 10, 10);
+    color: #fff;
+    text-align: center;
+    height: 300px;
+}
+
+.orange-1 {
+    /* background-color: darkturquoise; */
+}
+
+.lf {
+    /* background-color: chartreuse; */
+}
+
+.cf {
+    /* background-color: yellow; */
+}
+
+.dt {
+    /* background-color: orange; */
+}
+
+.orange-2 {
+    /* background-color: red; */
+}
+
+.orange-3 {
+    /* background-color: palegreen; */
+}
+
+.orange-4 {
+    /* background-color: palevioletred; */
+}
+
+.orange44 {
+    /* background-color: darkgray; */
+}
+
+.mid-text {
+    width: 100%;
+    /* background-color: hotpink; */
+
+}

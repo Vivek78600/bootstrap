@@ -1,0 +1,250 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto:wght@300&display=swap');
+
+body {
+    background-color: #fff;
+}
+
+.main {
+    /* background-color: chartreuse; */
+    /* width: 1442px; */
+
+}
+
+.main-1 {
+    /* width: 1000px; */
+    background-color: #ff7300;
+}
+
+.nav-bar {
+    height: 100px;
+    /* background-color: violet; */
+}
+
+.menu {
+    /* background-color: palegreen; */
+}
+
+.box-1 a {
+    text-decoration: none;
+    color: gray;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.box-1 a:hover {
+    color: orange;
+    border-bottom: 3px solid rgb(189, 189, 189);
+    padding-bottom: 8px;
+    transition: all;
+}
+
+.box-2 a {
+    text-decoration: none;
+    color: gray;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.box-2 a:hover {
+    color: orange;
+    border-bottom: 3px solid rgb(189, 189, 189);
+    padding-bottom: 8px;
+    transition: all;
+}
+
+.box-3 a {
+    text-decoration: none;
+    color: gray;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.box-3 a:hover {
+    color: orange;
+    border-bottom: 3px solid rgb(189, 189, 189);
+    padding-bottom: 8px;
+    transition: all;
+}
+
+.box-4 a {
+    text-decoration: none;
+    color: gray;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.box-4 a:hover {
+    color: orange;
+    border-bottom: 3px solid rgb(189, 189, 189);
+    padding-bottom: 8px;
+    transition: all;
+}
+
+.box-5 a {
+    text-decoration: none;
+    color: gray;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.box-5 a:hover {
+    color: orange;
+    border-bottom: 3px solid rgb(189, 189, 189);
+    padding-bottom: 8px;
+    transition: all;
+}
+
+.logo-1 {
+    height: 100px;
+    /* background-color: cadetblue; */
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+.logo-11 {
+    /* height: 100px; */
+    /* width: 65px; */
+    /* background-color: chartreuse; */
+    font-size: 25px;
+    font-weight: bold;
+    /* display: flex; */
+    align-items: center;
+    color: orange;
+}
+
+.logo-12 {
+    /* height: 100px; */
+    /* background-color: red; */
+}
+
+.logo-12:hover {
+    color: orange;
+}
+.icon {
+    /* background-color: rgb(255, 0, 0); */
+}
+
+.logo-2 {
+    /* background-color: seagreen; */
+}
+
+.logo-21 {
+    /* background-color: cadetblue; */
+    /* width: 20px; */
+}
+
+.logo-21:hover {
+    color: orange;
+    /* border-bottom: 3px solid ghostwhite; */
+    transition: all;
+}
+
+.logo-22 {
+    /* background-color: rgb(250, 8, 8); */
+}
+
+.logo-22:hover {
+    color: orange;
+    /* border-bottom: 3px solid ghostwhite; */
+    transition: all;
+}
+.continue {
+    background-color: rgb(218, 245, 255);
+    height: 450px;
+}
+
+.company {
+    /* width: 400px; */
+    height: 150px;
+    /* background-color: red; */
+    padding-left: 100px;
+    font-size: 50px;
+    font-weight: bold;
+    color:orange;
+}
+
+.company p {
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+}
+.info{
+    /* background-color: #e79200; */
+    /* height: 40vh;   */
+}
+.gi{
+    /* background-color: darkcyan; */
+    font-size:45px;
+    font-weight: bold;
+}
+.bootstrap{
+    background-color:#fff;
+}
+.copyright {
+    /* height: 500px;   */
+    /* width: 1530px; */
+    /* color: #fff; */
+    background-color: rgb(226, 17, 17);
+}
+
+.social {
+    /* width: 100px; */
+}
+
+.red-2 {
+    background-color: rgb(10, 10, 10);
+    color: #fff;
+    text-align: center;
+    height: 300px;
+}
+
+.orange-1 {
+    /* background-color: darkturquoise; */
+}
+
+.lf {
+    /* background-color: chartreuse; */
+}
+
+.cf {
+    /* background-color: yellow; */
+}
+
+.dt {
+    /* background-color: orange; */
+}
+
+.orange-2 {
+    /* background-color: red; */
+}
+
+.orange-3 {
+    /* background-color: palegreen; */
+}
+
+.orange-4 {
+    /* background-color: palevioletred; */
+}
+
+.orange44 {
+    /* background-color: darkgray; */
+}
+
+.mid-text {
+    width: 100%;
+    /* background-color: hotpink; */
+
+}
